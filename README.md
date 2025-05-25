@@ -44,10 +44,14 @@
 
 ### 📈 GitHub Stats
 
-[![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrEmadi&show_icons=true&theme=radical)](https://github.com/MrEmadi)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEmadi&layout=compact&theme=radical)](https://github.com/MrEmadi)
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MrEmadi&theme=react-dark)
+---
+
+### 📬 Let's Connect!
+
+- 📧 **Email:** [emadi.henker404@gmail.com](mailto:emadi.henker404@gmail.com)
 
 ---
+
+**`First, solve the problem. Then, write the code.` - *John Johnson***
