@@ -7,3 +7,13 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 
 ---
+
+### 🧑💻 About Me
+
+- 💼 Professional backend developer with expertise in Python ecosystem
+- 🚀 Specializing in API development and artificial intelligence solutions
+- 👨🎓 Pursuing Software Engineering degree (Expected graduation: 2027)
+- 🎯 Passionate about building scalable systems and intelligent applications
+- 📅 Born: April 13, 2000
+
+---
