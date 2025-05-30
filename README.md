@@ -54,4 +54,10 @@
 
 ---
 
+### 🚧 Commit Gaps
+
+- 📆 **`5/29/2025`: Laptop repair and reset the OS**
+
+---
+
 **`First, solve the problem. Then, write the code.` - *John Johnson***
