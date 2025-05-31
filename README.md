@@ -54,7 +54,9 @@
 
 ### 🚧 Commit Gaps
 
-- 📆 **`5/29/2025`: Laptop repair and reset the OS**
+**1 gap:**
+
+1. 📆 **`5/29/2025` - Laptop repair and OS reset**
 
 ---
 
