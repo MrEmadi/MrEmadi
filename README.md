@@ -54,9 +54,10 @@
 
 ### 🚧 Commit Gaps
 
-**1 gap:**
+**2 gaps:**
 
 1. 📆 **`5/29/2025` - Laptop repair and OS reset**
+2. 📆 **`6/5/2025` - The repository delete**
 
 ---
 
